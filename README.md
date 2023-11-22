@@ -19,7 +19,7 @@ Clone the repository containing the API code to your local machine:
 
 ```bash
 git clone https://github.com/ESPEDUZA/api-dockerhub.git
-cd api-dockerhub
+cd api-docker-hub
 ```
 
 ### Step 2: Ensure Script is Executable
