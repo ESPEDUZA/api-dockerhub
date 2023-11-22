@@ -18,8 +18,8 @@ This API listens for webhooks from Docker Hub, indicating that a new Docker imag
 Clone the repository containing the API code to your local machine:
 
 ```bash
-git clone [URL_TO_REPOSITORY]
-cd [REPOSITORY_NAME]
+git clone https://github.com/ESPEDUZA/api-dockerhub.git
+cd api-dockerhub
 ```
 
 ### Step 2: Ensure Script is Executable
